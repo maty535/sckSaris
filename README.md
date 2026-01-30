@@ -7,7 +7,7 @@ permalink: /about/
 | Identifikátor  |  Hodnota  | :  : |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Slovenský cykloklub - Šariš Prešov |<img alt="image" src="{{ '/assets/img/logo_sck.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov"  />
-| **Sídlo** | Popradská 7, 058 01 Prešov	 | ^^ |
+| **Sídlo** | Zborovská 3, 080 05 Prešov	| ^^ |
 | **IČO** | 37785699 | ^^ |
 | **DIČ** | 2021531270 | ^^ |
 | **Dátum zápisu** | 6.12 1999 | ^^ |
