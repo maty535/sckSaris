@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Ocenenie pozemkov súdnym znalcom a správcom konkurznej podstaty"
+date: 2021-01-18
+categories: akcie 
+tags: bezky akcie turistika
+author: Ing. Matúš Ivanecký
+---
+
+
+- Dňa 18.1.2026 sme mali možnosť sa zúčastniť zimnej turistickej akcie [Hermanovský šlid](https://chotarna.wbl.sk/Pozvanky.html)
+
+<img width="2048" height="1538" alt="image" src="https://github.com/user-attachments/assets/6594e0ef-5bc8-4265-adf6-f3dcea605379" />
