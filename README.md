@@ -3,19 +3,20 @@
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b54faa0b-e8b4-4634-ad67-296532914b74" />
 
 
-Popradská 7
+| {: style=";background-color: #808080; color: white;font-weight: bold;" }  Identifikátor  | {: style=";background-color: #808080; color: white;font-weight: bold;" } Hodnota  |
+| :---------- | :-------------------------------------------------------- |
+| **Názov** | Slovenský cykloklub - Šariš Prešov |
+| **Sídlo** | Popradská 7, 058 01 Prešov	 |
+| **IČO** | 37785699 |
+| **DIČ** | 2021531270 |
+| **Dátum zápisu** | 6.12 1999 |
+| **Vložka číslo** | VVS/1-900/90-16069 |
+| **SK NACE** | 93120 Činnosti športových klubov |
+| **Funkčné obdobie výboru** | 5 rokov |
+| **Funkčné obdobie dozornej rady** | 5 rokov |
+| **Predseda:**| Ľubo Hrečko, **mobil:** 0905 200 766, **e-mail:** lubo@luho.sk|
+| **Finančné ukazovatele** | [Finstat](https://finstat.sk/37785699)|
 
-058 01 Prešov
-
-**predseda:** Ľubo Hrečko
-
-tel.: 0905 200 766
-
-**e-mail:** lubo@luho.sk
-
-**web:** www.sck-saris.sk
-
-[Finstat](https://finstat.sk/37785699)
 
 * je samostatným dobrovoľným združením občanov s právnou subjektivitou a vznikol v roku 1999. Za dobu svojej činnosti klub usporiadal množstvo cykloturistických akcií, z ktorých sa niektoré stali tradičnými: Otvorenie cyklosezóny, Burza bicyklov a súčiastok , Okolím Prešova , Okolo Domaše, Slanskou cyklomagistrálou za zlatým zrnkom, Jazda mieru na Zlatú Baňu (toto tradičné podujatie rozšírili o cyklotúru), Slanský cyklomaratón.
 
