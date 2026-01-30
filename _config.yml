@@ -1,4 +1,4 @@
-#url: http://urbar.imcontec.eu
+#url: http://saris.cykloklub.sk
 title: SCK Šariš – Prešov
 description: >
  združeníe občanov s právnou subjektivitou, Slovenský cykloklub Šariš
@@ -53,7 +53,7 @@ exclude: [vendor]
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: urbariat-dulova-ves
+    shortname: sck-saris-sk
 
 author:
   name:  Ľubo Hrečko
@@ -73,7 +73,7 @@ minima:
 show_excerpts: true
 
 header_pages:
-  - about.md
+  - readme.md
   - orgStructure.md
   - docs.md
   - historia.md
