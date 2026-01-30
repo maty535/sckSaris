@@ -73,12 +73,8 @@ minima:
 show_excerpts: true
 
 header_pages:
-  - readme.md
-  - orgStructure.md
-  - docs.md
-  - historia.md
-  - contacts.md
-  
+  - README.md
+
 
 plugins:
   - jekyll-paginate-v2
