@@ -30,7 +30,7 @@ Vyhľadávanie: <!-- Search Input --> <input type="text" id="search-input" place
     {%- assign previous_year = current_year -%}
   {%- endunless -%}
      <article class="post-item">
-	 	- {{post.date | date: "%d. %m. %Y" }}  <a href="{{ post.url }}">{{ post.title | escape }}</a>
+	 	- {{post.date | date: "%d. %m. %Y" }}  <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
 	  </article>
 {%- endfor -%}
 
