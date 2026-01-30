@@ -4,9 +4,9 @@ title: O nás
 description: Základné právne a registračné informácie o klube
 permalink: /about/
 ---
-| Identifikátor  |  Hodnota  |:  :|
+| Identifikátor  |  Hodnota  | :  : |
 | :---------- | :-------------------------------------------------------- |
-| **Názov** | Slovenský cykloklub - Šariš Prešov |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b54faa0b-e8b4-4634-ad67-296532914b74" />
+| **Názov** | Slovenský cykloklub - Šariš Prešov |<img alt="image" src="https://github.com/user-attachments/assets/b54faa0b-e8b4-4634-ad67-296532914b74" />
 | **Sídlo** | Popradská 7, 058 01 Prešov	 | ^^ |
 | **IČO** | 37785699 | ^^ |
 | **DIČ** | 2021531270 | ^^ |
