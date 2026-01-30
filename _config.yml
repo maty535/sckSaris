@@ -20,7 +20,7 @@ pagination:
     before: 2
     after: 2
   extension: html
-  indexpage: 'index'
+  indexpage: 'about'
   title: ':title :num z :max'
 
 #picture:
