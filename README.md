@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: O nás
+description: Základné právne a registračné informácie o klube
+permalink: /about/
+---
 | Identifikátor  |  Hodnota  |:  :|
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Slovenský cykloklub - Šariš Prešov |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b54faa0b-e8b4-4634-ad67-296532914b74" />
