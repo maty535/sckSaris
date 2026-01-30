@@ -2,12 +2,18 @@
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b54faa0b-e8b4-4634-ad67-296532914b74" />
 
+
 Popradská 7
+
 058 01 Prešov
-predseda: Ľubo Hrečko
+
+**predseda:** Ľubo Hrečko
+
 tel.: 0905 200 766
-e-mail: lubo@luho.sk
-web: www.sck-saris.sk
+
+**e-mail:** lubo@luho.sk
+
+**web:** www.sck-saris.sk
 
 [Finstat](https://finstat.sk/37785699)
 
