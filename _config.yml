@@ -74,6 +74,8 @@ show_excerpts: true
 
 header_pages:
   - README.md
+  - zajazdy.md
+  - historia.md
 
 
 plugins:
