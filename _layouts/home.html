@@ -1,0 +1,9 @@
+---
+layout: base
+---
+<div class="home">
+  {%- if page.title -%}
+    <h2 class="page-heading">{{ page.title }}</h2>
+  {%- endif -%}
+
+  {{ content | markdownify }}
