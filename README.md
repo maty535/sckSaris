@@ -3,7 +3,7 @@
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b54faa0b-e8b4-4634-ad67-296532914b74" />
 
 
-| {: style=";background-color: #808080; color: white;font-weight: bold;" }  Identifikátor  | {: style=";background-color: #808080; color: white;font-weight: bold;" } Hodnota  |
+| Identifikátor  |  Hodnota  |
 | :---------- | :-------------------------------------------------------- |
 | **Názov** | Slovenský cykloklub - Šariš Prešov |
 | **Sídlo** | Popradská 7, 058 01 Prešov	 |
