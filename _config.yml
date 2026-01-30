@@ -1,10 +1,8 @@
-#url: http://saris.cykloklub.sk
-baseurl: "/sckSaris"
+baseurl: /sckSaris
+# url: http://saris.cykloklub.sk
 title: SCK Šariš – Prešov
 description: "združeníe občanov s právnou subjektivitou, Slovenský cykloklub Šariš"
-lang: sk_SK
-
-#paginate: 5
+lang: sk_SK 
 
 # Tags
 tag_dir: tag
@@ -30,18 +28,7 @@ pagination:
 jekyll-spaceship:
   # default enabled processors
   processors:
-    - table-processor
-    - plantuml-processor
-    - mathjax
-  plantuml-processor:
-    mode: server  # mode value 'pre-fetch' for fetching image at building stage
-    css:
-      class: plantuml
-    syntax:
-      code: 'plantuml!'
-      custom: ['@startuml', '@enduml']
-    src: http://www.plantuml.com/plantuml/svg/
-    
+    - table-processor  
     
 #feed_items: 10
 #feed_update_period: daily
@@ -77,13 +64,11 @@ header_pages:
   - zajazdy.md
   - historia.md
 
-
 plugins:
   - jekyll-paginate-v2
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-spaceship
-
 
 remote_theme: "jekyll/minima@1e8a445"
