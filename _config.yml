@@ -1,0 +1,91 @@
+#url: http://urbar.imcontec.eu
+title: SCK Šariš – Prešov
+description: >
+ združeníe občanov s právnou subjektivitou, Slovenský cykloklub Šariš
+lang: sk_SK
+
+#paginate: 5
+
+# Tags
+tag_dir: tag
+
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/news/:num/'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2
+  extension: html
+  indexpage: 'index'
+  title: ':title :num z :max'
+
+#picture:
+#  nomarkdown: true
+
+# Where things are
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - table-processor
+    - plantuml-processor
+    - mathjax
+  plantuml-processor:
+    mode: server  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: plantuml
+    syntax:
+      code: 'plantuml!'
+      custom: ['@startuml', '@enduml']
+    src: http://www.plantuml.com/plantuml/svg/
+    
+    
+#feed_items: 10
+#feed_update_period: daily
+#feed_update_frequency: 1
+
+exclude: [vendor]
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: urbariat-dulova-ves
+
+author:
+  name:  Ľubo Hrečko
+  email: lubo@luho.sk
+
+minima:
+  skin: classic
+  
+  # Minima date format.
+  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  date_format: "%d. %m. %Y"
+
+  #social_links:
+  #  - { platform: twitter,              user_url: "https://twitter.com/sckSaris" }
+
+show_excerpts: true
+
+header_pages:
+  - about.md
+  - orgStructure.md
+  - docs.md
+  - historia.md
+  - contacts.md
+  
+
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-spaceship
+
+
+remote_theme: "jekyll/minima@1e8a445"
