@@ -9,6 +9,8 @@ tel.: 0905 200 766
 e-mail: lubo@luho.sk
 web: www.sck-saris.sk
 
+[Finstat](https://finstat.sk/37785699)
+
 * je samostatným dobrovoľným združením občanov s právnou subjektivitou a vznikol v roku 1999. Za dobu svojej činnosti klub usporiadal množstvo cykloturistických akcií, z ktorých sa niektoré stali tradičnými: Otvorenie cyklosezóny, Burza bicyklov a súčiastok , Okolím Prešova , Okolo Domaše, Slanskou cyklomagistrálou za zlatým zrnkom, Jazda mieru na Zlatú Baňu (toto tradičné podujatie rozšírili o cyklotúru), Slanský cyklomaratón.
 
 *Klub organizuje aj ďalšie neformálne cyklojazdy v bližšom aj vzdialenejšom okolí Prešova, ale členovia spoločne navštívili napríklad aj ostrovy Elba a Brač či Makarsku.
