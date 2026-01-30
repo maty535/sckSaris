@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ocenenie pozemkov súdnym znalcom a správcom konkurznej podstaty"
-date: 2021-01-18
+title: "Hermanovský šlid 2026"
+date: 2026-01-18
 categories: akcie 
 tags: bezky akcie turistika
 author: Ing. Matúš Ivanecký
