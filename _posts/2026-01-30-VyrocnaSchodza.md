@@ -7,5 +7,5 @@ tags: clenska schodza
 author: Ing. Matúš Ivanecký
 ---
 
-- Predseda Ľubo Hreško na poslenom stretnutí komunikoval, že výročná členská schôdza by sa mala konať v prvých februárových týždňoch roku 2026
+- Predseda Ľubo Hrečko na poslenom stretnutí komunikoval, že výročná členská schôdza by sa mala konať v prvých februárových týždňoch roku 2026
   
