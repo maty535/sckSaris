@@ -1,8 +1,7 @@
 #url: http://saris.cykloklub.sk
 baseurl: "/sckSaris"
 title: SCK Šariš – Prešov
-description: >
- združeníe občanov s právnou subjektivitou, Slovenský cykloklub Šariš
+description: "združeníe občanov s právnou subjektivitou, Slovenský cykloklub Šariš"
 lang: sk_SK
 
 #paginate: 5
