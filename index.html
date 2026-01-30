@@ -1,0 +1,49 @@
+---
+layout: home
+title: Slovenský cykloklub - Šariš Prešov	
+list_title: Najnovšie oznamy
+description: Prehľad oznamov cykloklubu
+pagination: 
+  enabled: true
+---
+
+Vyhľadávanie v oznamoch: <!-- Search Input --> <input type="text" id="search-input" placeholder="Search...">
+
+
+<!-- Results Display -->
+<ul id="search-results"></ul>
+
+<!-- Initialization Script -->
+<script>
+  SimpleJekyllSearch({
+    limit: 10, // Nastavte na ľubovoľné číslo alebo 1000 pre "všetky"
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('search-results'),
+    json: '/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{title}">{title}</a></li>',
+    noResultsText: 'No results found'
+  });
+</script>
+
+
+{% assign all_tags = '' | split: ',' %}
+
+ {% for post in site.posts %}
+    {% for tags in post.tags %}
+        {% for tag in tags %}
+            {% assign all_tags = all_tags | push: tag %}
+        {% endfor %}
+    {% endfor %}
+{% endfor %}
+
+{% assign all_tags = all_tags | sort %}
+{% assign all_tags = all_tags | uniq %}
+
+### Témy:
+
+<ul class="tag-list">
+    {% for tag in all_tags %}
+        <li><a href="{{ site.tag_dir | prepend: '/' }}/{{ tag | uri_escape }}">{{ tag }}</a></li>
+    {% endfor %}
+
+</ul>
