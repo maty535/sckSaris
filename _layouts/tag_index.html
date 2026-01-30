@@ -1,0 +1,12 @@
+---
+layout: base
+---
+<h1 align="center">Téma: {{ page.tag | capitalize }}</h1>
+<hr/>
+<ul class="archive-list">
+    {% for post in site.tags[page.tag] %}
+    <li>
+        <a href='{{post.url}}'>{{post.title}}</a> <time datetime='{{post.date | date: "%d. %m. %Y "}}'>{{post.date | date: "%d. %m. %Y" }}</time>
+    </li>
+    {% endfor %}
+</ul>
