@@ -8,5 +8,72 @@ layout: base
 
   {{ content | markdownify }}
 
+  <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in paginator.posts -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}
+        {%- if post.author -%}
+        &nbsp;• {% for author in post.author %}
+         {{ author }}
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif -%}
+          </span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+
+   <!-- 
+    Showing buttons to move to the next and to the previous list of posts (pager buttons).
+  -->
+<paginate>
+  <ul>
+  {%- if paginator.page_trail -%}
+
+    {% if paginator.page > 2 -%}
+    <li class="previous">
+        <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lt;&lt;</a>
+    </li>
+    {%- endif -%}
+
+    {%- if paginator.previous_page -%}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&lt;</a>
+    </li>
+    {%- endif -%}
+
+    {%- if paginator.page_trail -%}
+      {%- for trail in paginator.page_trail -%}
+        <li>
+          <a href="{{ trail.path | prepend: site.baseurl | replace: '//', '/' }}" title="{{trail.title}}" {%- if paginator.page == trail.num -%}class="active"{%- endif -%}>{{ trail.num }}</a>
+        </li>
+      {%- endfor -%}
+    {%- endif -%}
+
+    {%- if paginator.next_page -%}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&gt;</a>
+    </li>
+    {%- endif -%}
+
+    {%- assign notNearEnd = paginator.page | plus:1 -%}
+    {%- if notNearEnd < paginator.total_pages  -%}
+    <li class="previous">
+        <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}">&gt;&gt;</a>
+    </li>
+    {%- endif -%}
+  {%- endif -%}
+  </ul>
+</paginate>
 
 </div>
