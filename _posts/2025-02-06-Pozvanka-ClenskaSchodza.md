@@ -30,9 +30,14 @@ Program:
 14. Záver
 
 
-Do návrhovej a mandátovej komisie navrhujem:  Ján Pastirčák, Martin Sabol , Eliška Hoľvová
-Do výboru navrhujem Marián Dankovič, Jan Pastirčák, Matúš Ivanecký, Jana Holingová
-Do revíznej komisie navrhujem Daniel Bača, Anton Hoľva
+Do návrhovej a mandátovej komisie navrhujem:  
+ * Ján Pastirčák, Martin Sabol , Eliška Hoľvová
+   
+Do výboru navrhujem:
+* Marián Dankovič, Jan Pastirčák, Matúš Ivanecký, Jana Holingová
+  
+Do revíznej komisie navrhujem:
+* Daniel Bača, Anton Hoľva
 
 
 ## Splnomocnenie
