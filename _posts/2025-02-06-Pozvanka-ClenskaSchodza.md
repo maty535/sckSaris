@@ -39,6 +39,7 @@ Do výboru navrhujem:
 Do revíznej komisie navrhujem:
 * Daniel Bača, Anton Hoľva
 
+____
 
 ## Splnomocnenie
 
