@@ -84,7 +84,8 @@ Dňa: ......................................
     </td>
   </tr>
 </table>
-
 ____
 
 <div style="page-break-after: always;"></div>
+
+* [Verzia pre tlač]({{ site.url }}/assests/docs/2026-02-06-Splnomocnenie.pdf)
