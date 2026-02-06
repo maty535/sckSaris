@@ -71,8 +71,19 @@ trvale bytom....................................................................
 V ............................................
 Dňa: ...................................... 
 
-| __________________________________   |    |  __________________________  |
-| :   Podpis člena                   : |    | : Podpis splmomocneného zástupcu : |
+<table style="border: none; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; text-align: center; vertical-align: bottom; width: 45%;">
+      __________________________________<br>
+      Podpis člena
+    </td>
+    <td style="border: none; width: 10%;"></td> <td style="border: none; text-align: center; vertical-align: bottom; width: 45%;">
+      __________________________________<br>
+      Podpis splnomocneného zástupcu
+    </td>
+  </tr>
+</table>
+
 
 
 -------------------------  
