@@ -40,6 +40,7 @@ Do revíznej komisie navrhujem:
 * Daniel Bača, Anton Hoľva
 
 ____
+\newpage
 
 ## Splnomocnenie
 
