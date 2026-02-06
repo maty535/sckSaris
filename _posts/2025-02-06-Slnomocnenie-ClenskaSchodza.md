@@ -8,6 +8,32 @@ tags: zhromaždenie
 published: true
 ---
 
+## Program členskej schôdze SCK Šariš Prešov 6. 2. 2026
+
+
+Dňa : **6. 2. 2026 o 18 00 salónik „Hotel Polo“**
+
+Program:	
+1. Privítanie členov
+2. Zhodnotenie činnosti klubu za rok 2025
+3. Sprava o hospodárení za rok 2025
+4. Predanie prezentov jubilantom
+5. Voľby Návrhovej a mandátovej komisie
+6. Voľby, predsedu a organov SCK na nasledujúce funkčné obdobie.
+7. Voľby predsedu SCK 
+8. Voľby 5 členného výboru SCK
+9. Voľby revíznej komisie
+10. Cyklokalendár, plán činnosti na rok 2026
+11. Členské poplatky 
+12. Diskusia 
+13. Prezeranie fotografií z klubových akcií
+14. Záver
+
+
+Do návrhovej a mandátovej komisie navrhujem:  Ján Pastirčák, Martin Sabol , Eliška Hoľvová
+Do výboru navrhujem Marián Dankovič, Jan Pastirčák, Matúš Ivanecký, Jana Holingová
+Do revíznej komisie navrhujem Daniel Bača, Anton Hoľva
+
 
 ## Splnomocnenie
 
