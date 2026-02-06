@@ -3,8 +3,8 @@ layout: post
 title: "Pozvánka na výročnú členskú schôdzu"
 date: 2026-02-05
 author: Výbor SCK Šariš Prešov
-categories: valne zhromazdenie
-tags: zhromaždenie
+categories: schodza
+tags: clenska schodza
 published: true
 ---
 
