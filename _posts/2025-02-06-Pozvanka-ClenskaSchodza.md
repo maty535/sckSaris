@@ -40,7 +40,8 @@ Do revíznej komisie navrhujem:
 * Daniel Bača, Anton Hoľva
 
 ____
-\newpage
+
+<div style="page-break-after: always;"></div>
 
 ## Splnomocnenie
 
