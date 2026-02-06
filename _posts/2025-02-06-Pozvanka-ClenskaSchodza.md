@@ -88,4 +88,4 @@ ____
 
 <div style="page-break-after: always;"></div>
 
-* [Verzia pre tlač]({{ site.url }}/assests/docs/2026-02-06-Splnomocnenie.pdf)
+* [Verzia pre tlač]({{ site.url }}/assets/docs/2026-02-06-Splnomocnenie.pdf)
