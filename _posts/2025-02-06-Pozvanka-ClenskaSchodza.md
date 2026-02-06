@@ -11,7 +11,8 @@ published: true
 ## Program členskej schôdze SCK Šariš Prešov 6. 2. 2026
 
 
-Dňa : **6. 2. 2026 o 18 00 salónik „Hotel Polo“**
+Dátum konania: **6. 2. 2026 o 18:00h**
+Miesto: **salónik „Hotel Polo“**
 
 Program:	
 1. Privítanie členov
