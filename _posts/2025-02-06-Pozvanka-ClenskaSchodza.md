@@ -74,11 +74,11 @@ Dňa: ......................................
 <table style="border: none; width: 100%;">
   <tr style="border: none;">
     <td style="border: none; text-align: center; vertical-align: bottom; width: 45%;">
-      __________________________________<br>
+      <hr/>
       Podpis člena
     </td>
     <td style="border: none; width: 10%;"></td> <td style="border: none; text-align: center; vertical-align: bottom; width: 45%;">
-      __________________________________<br>
+      <hr/>
       Podpis splnomocneného zástupcu
     </td>
   </tr>
