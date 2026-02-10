@@ -4,6 +4,7 @@ title: O nás
 description: Základné právne a registračné informácie o klube
 permalink: /about/
 ---
+
 | Identifikátor  |  Hodnota  |  |
 | :---------- | :----------- |::|
 | **Názov** | [Slovenský cykloklub - Šariš Prešov]({{ '/assets/docs/2006-12-01-stanovy.pdf' | relative_url }}) ||
