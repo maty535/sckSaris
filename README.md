@@ -14,7 +14,7 @@ permalink: /about/
 | **DIČ** | 2021531270 | ^^ |
 | **Finančné ukazovatele** | [Finstat](https://finstat.sk/37785699)| ^^ |
 | **SK NACE** | 93120 Činnosti športových klubov ||
-| **Funkčné obdobie výboru** | 4 roky | od 6.2.2026 do 5.2.2030 |
+| **Funkčné obdobie výboru a predsedu** | 4 roky | od 6.2.2026 do 5.2.2030 |
 | **Funkčné obdobie dozornej rady** | 4 roky| od 6.2.2026 do 5.2.2030 |
 | **Predseda:**| Ľubo Hrečko, **mobil:** 0905 200 766 | **e-mail:** lubo@luho.sk|
 
