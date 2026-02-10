@@ -12,12 +12,10 @@ permalink: /about/
 | **Vložka číslo** | [VVS/1-900/90-16069](https://ives.minv.sk/rmno/detail/13542111910278030110) | <img alt="image" src="{{ '/assets/img/logo_sck.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" /> |
 | **Dátum zápisu** | 6.12 1999 | ^^ |
 | **IČO** | [37785699](https://ives.minv.sk/rmno/detail/13542111910278030110) | ^^ |
-| **DIČ** | 2021531270 | ^^ |
-| **Finančné ukazovatele** | [Finstat](https://finstat.sk/37785699)| ^^ |
+| **DIČ** | [2021531270](https://finstat.sk/37785699)| ^^ |
 | **SK NACE** | 93120 Činnosti športových klubov ||
 | **Predseda:**| Ľubo Hrečko | **mobil:** 0905 200 766 , **e-mail:** lubo@luho.sk|
 | **Funkčné obdobie orgánov klubu** | 4 roky | od 6.2.2026 do 5.2.2030 |
-
 
 
 * je samostatným dobrovoľným združením občanov s právnou subjektivitou a vznikol v roku 1999. Za dobu svojej činnosti klub usporiadal množstvo cykloturistických akcií, z ktorých sa niektoré stali tradičnými: Otvorenie cyklosezóny, Burza bicyklov a súčiastok , Okolím Prešova , Okolo Domaše, Slanskou cyklomagistrálou za zlatým zrnkom, Jazda mieru na Zlatú Baňu (toto tradičné podujatie rozšírili o cyklotúru), Slanský cyklomaratón.
