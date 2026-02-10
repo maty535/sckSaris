@@ -4,19 +4,20 @@ title: O nás
 description: Základné právne a registračné informácie o klube
 permalink: /about/
 ---
-| Identifikátor  |  Hodnota  | :  : |
-| :---------- | :-------------------------------------------------------- |
-| **Názov** | Slovenský cykloklub - Šariš Prešov |<img alt="image" src="{{ '/assets/img/logo_sck.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov"  />
-| **Sídlo** | Zborovská 3, 080 05 Prešov	| ^^ |
+| Identifikátor  |  Hodnota  |  |
+| :---------- | :----------- |::|
+| **Názov** | [Slovenský cykloklub - Šariš Prešov]({{ '/assets/docs/2006-12-01-stanovy.pdf' | relative_url }}) ||
+| **Sídlo** | Zborovská 3, 080 05 Prešov ||
+| **Vložka číslo** | [VVS/1-900/90-16069](https://ives.minv.sk/rmno/detail/13542111910278030110) | <img alt="image" src="{{ '/assets/img/logo_sck.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" /> |
+| **Dátum zápisu** | 6.12 1999 | ^^ |
 | **IČO** | [37785699](https://ives.minv.sk/rmno/detail/13542111910278030110) | ^^ |
 | **DIČ** | 2021531270 | ^^ |
-| **Dátum zápisu** | 6.12 1999 | ^^ |
-| **Vložka číslo** | [VVS/1-900/90-16069](https://ives.minv.sk/rmno/detail/13542111910278030110) | ^^ |
-| **SK NACE** | 93120 Činnosti športových klubov | ^^ |
-| **Funkčné obdobie výboru** | 5 rokov | ^^ |
-| **Funkčné obdobie dozornej rady** | 5 rokov | ^^ |
-| **Predseda:**| Ľubo Hrečko, **mobil:** 0905 200 766, **e-mail:** lubo@luho.sk| ^^ |
 | **Finančné ukazovatele** | [Finstat](https://finstat.sk/37785699)| ^^ |
+| **SK NACE** | 93120 Činnosti športových klubov ||
+| **Funkčné obdobie výboru** | 4 roky | od 6.2.2026 do 5.2.2030 |
+| **Funkčné obdobie dozornej rady** | 4 roky| od 6.2.2026 do 5.2.2030 |
+| **Predseda:**| Ľubo Hrečko, **mobil:** 0905 200 766 | **e-mail:** lubo@luho.sk|
+
 
 
 * je samostatným dobrovoľným združením občanov s právnou subjektivitou a vznikol v roku 1999. Za dobu svojej činnosti klub usporiadal množstvo cykloturistických akcií, z ktorých sa niektoré stali tradičnými: Otvorenie cyklosezóny, Burza bicyklov a súčiastok , Okolím Prešova , Okolo Domaše, Slanskou cyklomagistrálou za zlatým zrnkom, Jazda mieru na Zlatú Baňu (toto tradičné podujatie rozšírili o cyklotúru), Slanský cyklomaratón.
