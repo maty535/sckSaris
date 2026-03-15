@@ -1,3 +1,12 @@
+---
+layout: post
+title: "24.NÁRODNÝ zraz cykloturistov Sigord"
+date: 2026-03-13
+categories: zraz 
+tags: sigord zraz
+author: výbor
+---
+
 **![slovenky-cyklokub-csk-logo](data:image/png;base64...)![](data:image/jpeg;base64...)24. NÁRODNÝ ZRAZ CYKLOTURISTOV**
 
 ![](data:image/png;base64...)
