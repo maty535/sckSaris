@@ -7,12 +7,12 @@ tags: sigord zraz
 author: výbor
 ---
 
-|: <img alt="image" src="{{ '/assets/img/logo_sck_small.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" /> |: ** 24. NÁRODNÝ ZRAZ CYKLOTURISTOV ** :| <img alt="image" src="{{ '/assets/img/logoFlatSck.png' | relative_url }}" alt="Logo SCK Šariš Prešov" /> :|
+|: <img alt="image" src="{{ '/assets/img/logo_sck_small.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" /> |: **24. NÁRODNÝ ZRAZ CYKLOTURISTOV** :| <img alt="image" width="90" height="90" src="{{ '/assets/img/logoFlatSck.png' | relative_url }}" alt="Logo SCK Šariš Prešov" /> :|
+| [pdf verzia]({{ '/assets/docs/2026-06-18-zraz-sigord.pdf' | relative_url }}) |||
 
 
 # 24. NÁRODNÝ ZRAZ CYKLOTURISTOV
 
-![](data:image/png;base64...)
 
 **Vitajte na Šariši**
 
