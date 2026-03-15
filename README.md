@@ -14,7 +14,7 @@ permalink: /about/
 | **IČO** | [37785699](https://ives.minv.sk/rmno/detail/13542111910278030110) | ^^ |
 | **DIČ** | [2021531270](https://finstat.sk/37785699)| ^^ |
 | **SK NACE** | 93120 Činnosti športových klubov ||
-| **Predseda:**| Ľubo Hrečko | **mobil:** 0905 200 766 , **e-mail:** lubo@luho.sk|
+| **Predseda:**| Ľubo Hrečko | **mobil:** 0905 200 766 , **e-mail:** saris@cykloklub.sk |
 | **Funkčné obdobie orgánov klubu** | 4 roky | od 6.2.2026 do 5.2.2030 |
 
 
