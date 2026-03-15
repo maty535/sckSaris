@@ -7,7 +7,9 @@ tags: sigord zraz
 author: výbor
 ---
 
-**![slovenky-cyklokub-csk-logo](data:image/png;base64...)![](data:image/jpeg;base64...)24. NÁRODNÝ ZRAZ CYKLOTURISTOV**
+<img alt="image" src="{{ '/assets/img/logo_sck_small.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" />
+
+# 24. NÁRODNÝ ZRAZ CYKLOTURISTOV
 
 ![](data:image/png;base64...)
 
