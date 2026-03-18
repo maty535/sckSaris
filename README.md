@@ -9,7 +9,7 @@ permalink: /about/
 | :---------- | :----------- |: :|
 | **Názov** | [Slovenský cykloklub - Šariš Prešov]({{ '/assets/docs/2006-12-01-stanovy.pdf' | relative_url }}) ||
 | **Sídlo** | Zborovská 3, 080 05 Prešov ||
-| **Bankový kontakt** | SK4683300000002803464553  | <img alt="image" src="{{ '/assets/img/logo_sck.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" />  |
+| **Bankový kontakt** | SK46 8330 0000 0028 0346 4553  | <img alt="image" src="{{ '/assets/img/logo_sck.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" />  |
 | **Vložka číslo** | [VVS/1-900/90-16069](https://ives.minv.sk/rmno/detail/13542111910278030110) | ^^ |
 | **Dátum zápisu** | 6.12 1999 | ^^ |
 | **IČO** | [37785699](https://ives.minv.sk/rmno/detail/13542111910278030110) | ^^ |
