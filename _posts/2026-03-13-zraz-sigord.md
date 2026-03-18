@@ -94,7 +94,7 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-| **Organizátor:**  **Spoluorganizátor** | **SCK Šariš – Prešov**  **SCK Piešťany** | **Štvrtok**  14.00 - 22.00  17.30 - 19.00  19.00 - 19.30  19.30 | **18.6.2026**  Prezentácia, ubytovanie  Cyklotúry po okolí  Večera  Otvorenie zrazu  Voľný program |
-| **Ubytovanie** | Multifunkčné pobytové centrum  **SAVORE SIGORD**  Sigord 154, 082 52 Zlatá Baňa  0909 250 802 [Volať 8:00 - 17:00](https://www.savoresigord.sk/)  savoresigord@savoresigord.sk | **Piatok**  7.30 - 8.30  9.00  18.00 - 19.00  19.00 - 22.00 | **19.6.2026**  Raňajky  Cykloturistický program  Večera  Premietanie beseda |
-| **Prihlášky** | Prihlášky spolu s potvrdením o zaplatení  poslať do 25.5.2026 na mail: saris@cykloklub.sk | **Sobota**  7.00 - 8.00  8.30  18.00 - 19.00 | **20.6.2026**  Raňajky  Cykloturistický program  Večera  Ukončenie zrazu  Zábavný večer  s tombolou |
+| **Organizátor:** / **Spoluorganizátor** | **SCK Šariš – Prešov** / **SCK Piešťany** | **Štvrtok**  14.00 - 22.00  17.30 - 19.00  19.00 - 19.30  19.30 | **18.6.2026**  Prezentácia, ubytovanie  Cyklotúry po okolí  Večera  Otvorenie zrazu  Voľný program |
+| **Ubytovanie** | Multifunkčné pobytové centrum  **SAVORE SIGORD** Sigord 154, 082 52 Zlatá Baňa| **Piatok**  7.30 - 8.30  9.00  18.00 - 19.00  19.00 - 22.00 | **19.6.2026**  Raňajky  Cykloturistický program  Večera  Premietanie beseda |
+| **Prihlášky** | Prihlášky spolu s potvrdením o zaplatení  150 € poslať do 25.5.2026 na mail: **saris@cykloklub.sk** | **Sobota**  7.00 - 8.00  8.30  18.00 - 19.00 | **20.6.2026**  Raňajky  Cykloturistický program  Večera  Ukončenie zrazu  Zábavný večer  s tombolou |
 | **Informácie**<br/>(volať po 19.000 |   Ľubomír Hrečko 0905 200 766,  Ján Pastirčák 0905 911 413, Matúš Ivanecký 0918 730 322, Marián Dankovič 0903 953 388, Dušan Holinga 0902 901 089 | **Nedeľa**  7.30 - 8.30  9.00 - 12.00 | **21.6.2026**  Raňajky  Cykloturistický program  Odchod účastníkov |
