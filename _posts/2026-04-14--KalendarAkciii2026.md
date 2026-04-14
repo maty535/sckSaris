@@ -10,7 +10,7 @@ tags: akcie kalendar
 # Plán akcií na rok 2026
 **SLOVENSKÝ CYKLOKLUB ŠARIŠ – PREŠOV**
 
-* **Web:** www.sck-saris.sk
+* **Web:** [www.sck-saris.sk](http://www.sck-saris.sk)
 * **E-mail:** lubo@luho.sk
 * **Tel:** 0903/772 184
 * **IČO:** 37785699
@@ -29,7 +29,7 @@ tags: akcie kalendar
 | 19.-21.6.2026 | NZC SCK Sigord Savore | (Pastirčák) |
 | ?. 7. 2026 | Slovenský kras | (Fil) |
 | 26. 7. 2026 | Levočské vrchy | (Holinga) |
-| . 8. 2026 | Slovenský raj | (predseda) |
+| ?. 8. 2026 | Slovenský raj | (predseda) |
 | 13. 9. 2026 | Zlatník | (predseda) |
 | 26.12.2026 | Štefibowling | (predseda) |
 | 31.12.2026 | Výstup na Šimonku, rozlúčka s rokom 2026 | (predseda) |
