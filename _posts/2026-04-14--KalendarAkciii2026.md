@@ -27,9 +27,9 @@ tags: akcie kalendar
 | 23.5.-31.5.2026 | Cyklozájazd | (výbor, členovia) |
 | 7.6.2026 | Prejazd trasy zrazu na 3. deň zrazu | (Pribula) |
 | 19.-21.6.2026 | NZC SCK Sigord Savore | (Pastirčák) |
-| ?. 7. 2026 | Slovenský kras | (Fil) |
-| 26. 7. 2026 | Levočské vrchy | (Holinga) |
-| ?. 8. 2026 | Slovenský raj | (predseda) |
-| 13. 9. 2026 | Zlatník | (predseda) |
+| ?. 7.2026 | Slovenský kras | (Fil) |
+| 26.7.2026 | Levočské vrchy | (Holinga) |
+| ?.8.2026 | Slovenský raj | (predseda) |
+| 13.9.2026 | Zlatník | (predseda) |
 | 26.12.2026 | Štefibowling | (predseda) |
 | 31.12.2026 | Výstup na Šimonku, rozlúčka s rokom 2026 | (predseda) |
