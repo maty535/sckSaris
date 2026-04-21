@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: Kalendár akcií 2026
 description: Infomácie o cykloakciách v roku 2026
 categories: akcie
-tags: akcie kalendar
+tags: akcie kalendar 2026
 akcie:
   - { d: "2026-01-18", t: "18.1.2026", n: "Hermanovský Šlid Bežky", z: "(Hrečko)" }
   - { d: "2026-04-26", t: "26.4.2026", n: "Otvorenie cyklosezóny", z: "(Sabol)" }

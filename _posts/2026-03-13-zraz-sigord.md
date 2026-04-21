@@ -3,7 +3,7 @@ layout: post
 title: "24.NÁRODNÝ zraz cykloturistov Sigord"
 date: 2026-03-13
 categories: zraz 
-tags: sigord zraz
+tags: sigord zraz 2026
 author: výbor
 ---
 

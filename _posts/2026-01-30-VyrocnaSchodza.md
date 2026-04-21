@@ -2,8 +2,8 @@
 layout: post
 title: "Výročná klubová členská schôdza"
 date: 2026-01-30
-categories: schodza 
-tags: clenska schodza
+categories: schodze
+tags: schodze 2026
 author: Ing. Matúš Ivanecký
 ---
 

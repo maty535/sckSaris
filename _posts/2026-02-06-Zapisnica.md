@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: post
 title: Zápisnica z členskej schôdze 
 description: konanej 6.2.2026 v salóniku hotela Pólo
-categories: schodza
-tags: clenska schodza zapisnice
+categories: schodze
+tags: schodze zapisnice 2026
 ---
 
 

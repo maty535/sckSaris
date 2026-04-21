@@ -3,7 +3,7 @@ layout: post
 title: "Hermanovský šlid 2026"
 date: 2026-01-18
 categories: akcie 
-tags: bezky akcie turistika
+tags: bezky akcie turistika 2026
 author: Ing. Matúš Ivanecký
 ---
 
