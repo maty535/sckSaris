@@ -4,7 +4,6 @@ title: Kalendár akcií 2026
 description: Infomácie o cykloakciách v roku 2026
 categories: akcie
 tags: akcie kalendar
-
 ---
 
 # Plán akcií na rok 2026

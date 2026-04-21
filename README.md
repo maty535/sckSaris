@@ -17,6 +17,7 @@ permalink: /about/
 | **SK NACE** | 93120 Činnosti športových klubov ||
 | **Predseda:**| Ľubo Hrečko | **mobil:** 0905 200 766 , **e-mail:** saris@cykloklub.sk |
 | **Funkčné obdobie orgánov klubu** | 4 roky | od 6.2.2026 do 5.2.2030 |
+| **Stanovy klubu** | [schválené 9.2.2006]({{ '/assets/docs/2006-12-01-stanovy.pdf' | relative_url }}) ||
 
 
 * je samostatným dobrovoľným združením občanov s právnou subjektivitou a vznikol v roku 1999. Za dobu svojej činnosti klub usporiadal množstvo cykloturistických akcií, z ktorých sa niektoré stali tradičnými: Otvorenie cyklosezóny, Burza bicyklov a súčiastok , Okolím Prešova , Okolo Domaše, Slanskou cyklomagistrálou za zlatým zrnkom, Jazda mieru na Zlatú Baňu (toto tradičné podujatie rozšírili o cyklotúru), Slanský cyklomaratón.
