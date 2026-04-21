@@ -11,5 +11,5 @@ tags: clenska schodza zapisnice
 - dátum: 6.2.2026
 - čas: 18:00
 - miesto: salónik „Hotel Polo“
-- [program]({% link _posts/2025-02-06-Pozvanka-ClenskaSchodza.md %})
+- [program]({% link _posts/2026-02-06-Pozvanka-ClenskaSchodza.md %})
 - [zápisnica v pdf]({{ site.url }}/assets/docs/2026-02-06-zapisnica-cs.pdf)
