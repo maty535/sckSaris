@@ -22,7 +22,7 @@ akcie:
 # Plán akcií na rok 2026
 **SLOVENSKÝ CYKLOKLUB ŠARIŠ – PREŠOV**
 
-* **Web:** [www.sck-saris.sk](http://www.sck-saris.sk)
+* **Web:** [saris.cykloklub.sk](http://saris.cykloklub.sk)
 * **E-mail:** saris@cykloklub.sk
 * **Tel:** 0903 772 184, Ľubo Hrečko
 * **IČO:** 37785699
