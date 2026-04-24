@@ -7,7 +7,7 @@ tags: schodze zapisnice 2026
 ---
 
 
-## Zápisnica zo riadnej schôdze členov
+## Zápisnica z riadnej schôdze členov
 - dátum: 6.2.2026
 - čas: 18:00
 - miesto: salónik „Hotel Polo“
