@@ -9,7 +9,7 @@ author: výbor
 
 |: <img alt="image" src="{{ '/assets/img/logo_sck_small.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" /> |: **24. NÁRODNÝ ZRAZ CYKLOTURISTOV** :| <img alt="image" width="90" height="90" src="{{ '/assets/img/logoFlatSck.png' | relative_url }}" alt="Logo SCK Šariš Prešov" /> :|
 | **Miesto:** [Sigord](https://maps.app.goo.gl/VibgjwN19ExHYkiw8) | **Termín:** 18.6 - 21.6.2026| **Cena:** 150 € |
-| [- Informáčný leták o zraze]({{ '/assets/docs/2026-06-18-zraz-sigord.pdf' | relative_url }})  | <img alt="image" width="150" height="180"  src="{{ '/assets/img/zraz-2026-qr-code.png' | relative_url }}" alt="QR kód zrazu" />  :|| 
+| [- Informáčný leták o zraze]({{ '/assets/docs/2026-06-18-zraz-sigord.pdf' | relative_url }})  | <img alt="image" width="150" height="180"  src="{{ '/zraz2026/qr-code.png' | relative_url }}" alt="QR kód zrazu" />  :|| 
 
 <img alt="image" src="{{ '/zraz2026/plagat.jpg' | relative_url }}" alt="Plagát zrazu" /> 
 
