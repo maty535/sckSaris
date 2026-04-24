@@ -61,7 +61,7 @@ show_excerpts: true
 header_pages:
   - README.md
   - kalendar.md
-  - zraz2026.md
+  - zraz2026/index.md
   - historia.md
 
   
