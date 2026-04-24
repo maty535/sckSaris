@@ -61,8 +61,10 @@ show_excerpts: true
 header_pages:
   - README.md
   - kalendar.md
+  - zraz2026.md
   - historia.md
 
+  
 plugins:
   - jekyll-paginate-v2
   - jekyll-remote-theme
