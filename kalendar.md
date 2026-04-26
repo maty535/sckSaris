@@ -50,7 +50,7 @@ akcie:
       <th>Názov akcie</th>
       <th>Zodpovedný</th>
       <th>Trasa</th>
-      <th>Google Earth</th>
+      <th>GoogleEarth</th>
     </tr>
   </thead>
   <tbody>
@@ -69,10 +69,9 @@ akcie:
         <td>
           {% capture gpx_url %}/assets/trasy/{{ akcia.gpx }}.gpx{% endcapture %}
           <a href="{{ gpx_url | relative_url }}">GPX</a>
-            &nbsp;&nbsp;
         </td>
         <td>
-        <a href="https://earth.google.com/earth/d/1o51LmGenyDSoFCYgID8GZHvzeACqDyrs?usp=sharing">Google Earth</a>
+        <a href="https://earth.google.com/earth/d/1o51LmGenyDSoFCYgID8GZHvzeACqDyrs?usp=sharing">Prieskum</a>
         </td>
         {% endif %}
       </tr>
