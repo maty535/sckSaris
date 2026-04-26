@@ -74,11 +74,7 @@ akcie:
         <a href="https://earth.google.com/earth/d/1o51LmGenyDSoFCYgID8GZHvzeACqDyrs?usp=sharing">Google Earth</a>
         </td>
         {% endif %}
-        
-      
       </tr>
     {% endfor %}
   </tbody>
 </table>
-
-<a href="">GPX</a>
