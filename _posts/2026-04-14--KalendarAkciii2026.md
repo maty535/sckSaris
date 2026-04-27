@@ -7,7 +7,7 @@ tags: akcie kalendar 2026
 akcie:
   - { d: "2026-01-18", t: "18.1.2026", n: "Hermanovský Šlid Bežky", z: "(Hrečko)" }
   - { d: "2026-04-26", t: "26.4.2026", n: "Otvorenie cyklosezóny", z: "(Sabol)", gpx: "2026-04-26-OtvorenieSezony-MatosSabol"  }
-  - { d: "2026-05-01", t: "1.5.2026", n: "Prejazd trasy zrazu na 1. deň zrazu", z: "(Hrečko)" }
+  - { d: "2026-05-01", t: "10.5.2026", n: "Prejazd trasy zrazu na 1. deň zrazu", z: "(Hrečko)" }
   - { d: "2026-05-17", t: "17.5.2026", n: "Prejazd trasy zrazu na 2. deň zrazu", z: "(Hrečko)" }
   - { d: "2026-06-07", t: "7.6.2026", n: "Prejazd trasy zrazu na 3. deň zrazu", z: "(Pribula)" }
   - { d: "2026-06-19", t: "19.-21.6.2026", n: "NZC SCK Sigord Savore", z: "(Pastirčák)" }
