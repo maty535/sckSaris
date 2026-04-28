@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+  repo: maty535/sckSaris # Zmeňte na váš názov (napr. jozko/moj-web)
+  
+media_folder: 'assets/uploads'
+
+collections:
+  - name: 'oznamy'
+    label: 'Oznamy'
+    folder: '_posts/'
+    create: true # Umožní zákazníkovi pridať nový príspevok
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Formát názvu súboru
+    extension: "md"
+    summary: "📅 {{date | date('D.M.YYYY')}} | ✍️ {{author}} | {{title}} |"
+    fields:
+      - { label: "Názov", name: "title", widget: "string" }
+      - { label: "Dátum", name: "date", widget: "datetime" }
+      - { label: "Autor", name: "author", widget: "string", default: "výbor spoločenstva" }
+      - { label: "Kategórie", name: "categories", widget: "string" }
+      - { label: "Tagy", name: "tags", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Obsah", name: "body", widget: "markdown" }
