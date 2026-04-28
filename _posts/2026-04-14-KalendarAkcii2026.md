@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kalendár akcií 2026
+date: 2026-04-14
 description: Infomácie o cykloakciách v roku 2026
 categories: akcie
 tags: akcie kalendar 2026
