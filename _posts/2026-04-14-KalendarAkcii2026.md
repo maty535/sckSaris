@@ -6,18 +6,18 @@ description: Infomácie o cykloakciách v roku 2026
 categories: akcie
 tags: akcie kalendar 2026
 akcie:
-  - { d: "2026-01-18", t: "18.1.2026", n: "Hermanovský Šlid Bežky", z: "(Hrečko)" }
+   - { d: "2026-01-18", t: "18.1.2026", n: "Hermanovský Šlid Bežky", z: "(Hrečko)" }
   - { d: "2026-04-26", t: "26.4.2026", n: "Otvorenie cyklosezóny", z: "(Sabol)", 
       gpx: "2026-04-26-OtvorenieSezony-MatosSabol" , url: "https://earth.google.com/earth/d/1o51LmGenyDSoFCYgID8GZHvzeACqDyrs?usp=sharing" }
-  - { d: "2026-05-01", t: "10.5.2026", n: "Prejazd trasy zrazu na 1. deň zrazu", z: "(Hrečko)" }
-  - { d: "2026-05-17", t: "17.5.2026", n: "Prejazd trasy zrazu na 2. deň zrazu", z: "(Hrečko)" }
+  - { d: "2026-05-10", t: "10.5.2026", n: "Prejazd trasy zrazu na 1. deň zrazu", z: "(Hrečko)" }
+  - { d: "2026-05-24", t: "24.5.2026", n: "Prejazd trasy zrazu na 2. deň zrazu, presunuté z 17 na 24.5", z: "(Hrečko)" }
   - { d: "2026-06-07", t: "7.6.2026", n: "Prejazd trasy zrazu na 3. deň zrazu", z: "(Pribula)" }
   - { d: "2026-06-19", t: "19.-21.6.2026", n: "NZC SCK Sigord Savore", z: "(Pastirčák)" }
-  - { d: "2026-07-01", t: "?. 7.2026", n: "Slovenský kras", z: "(Fil)" , 
+  - { d: "2026-07-01", t: "x. 7.2026", n: "Slovenský kras", z: "(Fil)" , 
       gpx: "SNV-JanoFil", 
       url: "https://mapy.com/sk/turisticka?planovani-trasy&dim=69eba8bab62416099118d361&x=20.5762808&y=48.9397628&z=12" }
   - { d: "2026-07-26", t: "26.7.2026", n: "Levočské vrchy", z: "(Holinga)" }
-  - { d: "2026-08-01", t: "?.8.2026", n: "Slovenský raj", z: "(predseda)" }
+  - { d: "2026-08-01", t: "1.8.2026", n: "Slovenský raj", z: "(predseda)" }
   - { d: "2026-09-13", t: "13.9.2026", n: "Zlatník", z: "(predseda)" }
   - { d: "2026-12-26", t: "26.12.2026", n: "Štefibowling", z: "(predseda)" }
   - { d: "2026-12-31", t: "31.12.2026", n: "Výstup na Šimonku, rozlúčka s rokom 2026", z: "(predseda)" }
