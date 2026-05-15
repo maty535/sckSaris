@@ -10,7 +10,7 @@ akcie:
   - { d: "2026-04-26", t: "26.4.2026", n: "Otvorenie cyklosezóny", z: "(Sabol)", 
       gpx: "2026-04-26-OtvorenieSezony-MatosSabol" , url: "https://earth.google.com/earth/d/1o51LmGenyDSoFCYgID8GZHvzeACqDyrs?usp=sharing" }
   - { d: "2026-05-10", t: "10.5.2026", n: "Prejazd trasy zrazu na 1. deň zrazu", z: "(Hrečko)",
-    gpx: "2026-05-10-Zraz-Trasa1.gpx",
+    gpx: "2026-05-10-Zraz-Trasa1",
     url: "https://mapy.com/sk/turisticka?planovani-trasy&dim=6a022ce4f4aafc2fc8505da5&x=21.4013645&y=48.9082719&z=12" }
   - { d: "2026-05-24", t: "24.5.2026", n: "Prejazd trasy zrazu na 2. deň zrazu, presunuté z 17.5 na 24.5", z: "(Hrečko)" }
   - { d: "2026-06-07", t: "7.6.2026", n: "Prejazd trasy zrazu na 3. deň zrazu", z: "(Pribula)" }
