@@ -4,7 +4,7 @@ title: "Zraz 2026"
 ---
 
 |: <img alt="image" src="{{ '/assets/img/logo_sck_small.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" /> |: **24. NÁRODNÝ ZRAZ CYKLOTURISTOV** :| <img alt="image" width="90" height="90" src="{{ '/assets/img/logoFlatSck.png' | relative_url }}" alt="Logo SCK Šariš Prešov" /> :|
-| **Miesto:** [Sigord](https://maps.app.goo.gl/VibgjwN19ExHYkiw8) | **Termín:** 18.6 - 21.6.2026| **Cena:** 150 € |
+| **Miesto:** [Sigord](https://maps.app.goo.gl/VibgjwN19ExHYkiw8) - [ubytovanie](https://www.savoresigord.sk/) | **Termín:** 18.6 - 21.6.2026| **Cena:** 150 € |
 | [- Informáčný leták o zraze]({{ '/assets/docs/2026-06-18-zraz-sigord.pdf' | relative_url }})  | <img alt="image" width="150" height="180"  src="{{ '/zraz2026/qr-code.png' | relative_url }}" alt="QR kód zrazu" />  :|| 
 
 <img alt="image" src="{{ '/zraz2026/plagat.jpg' | relative_url }}" alt="Plagát zrazu" /> 
@@ -86,7 +86,7 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 
 ### Účastnícky poplatok
  
- * Registračný poplatok  **150 €**  zahŕňa ubytovanie, polpenziu, vstupy do pamätihodností a múzeí, tričko, sprievod na trase.
+ * Registračný poplatok  **150 €**  zahŕňa ubytovanie, polpenziu, vstupy do pamätihodností a múzeí, tričko, sprievod na trase a je potrebné zaslať na účet klubu do 25.5.2026: **SK46 8330 0000 0028 0346 4553**.
 
 
 ### Detailný Program zrazu:
@@ -116,4 +116,4 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 |||
 | **Ubytovanie** | Multifunkčné pobytové centrum  **SAVORE SIGORD** Sigord 154, 082 52 Zlatá Baňa|
 | **Prihlášky** | Prihlášky spolu s potvrdením o zaplatení  **150 €** na účet klubu: **SK46 8330 0000 0028 0346 4553** poslať do **25.5.2026** na mail: **saris@cykloklub.sk** |
-| **Informácie**<br/>(volať po 19.000 |   Ľubomír Hrečko 0905 200 766,  Ján Pastirčák 0905 911 413, Matúš Ivanecký 0918 730 322, Marián Dankovič 0903 953 388, Dušan Holinga 0902 901 089 |
+| **Informácie**<br/>(volať po 19.000 |  Ľubomír Hrečko 0905 200 766,  Ján Pastirčák 0905 911 413, Matúš Ivanecký 0918 730 322, Marián Dankovič 0903 953 388, Dušan Holinga 0902 901 089 |
