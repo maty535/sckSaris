@@ -91,7 +91,7 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 
 ### Detailný Program zrazu:
 <hr/>
-| **Organizátor:** / **Spoluorganizátor** | **SCK Šariš – Prešov** / **SCK Piešťany** |
+| **Organizátor** / **Spoluorganizátor:** | **SCK Šariš – Prešov** / **SCK Piešťany** |
 | :--- | :-- |
 | **Štvrtok** | **18.6.2026**|
 | 14.00 - 22.00 | Prezentácia, ubytovanie|
