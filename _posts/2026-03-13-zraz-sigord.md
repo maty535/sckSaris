@@ -97,10 +97,29 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 ### Detailný Program zrazu:
 <hr/>
 
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-| **Organizátor:** / **Spoluorganizátor** | **SCK Šariš – Prešov** / **SCK Piešťany** | **Štvrtok**  14.00 - 22.00  17.30 - 19.00  19.00 - 19.30  19.30 | **18.6.2026**  Prezentácia, ubytovanie  Cyklotúry po okolí  Večera  Otvorenie zrazu  Voľný program |
-| **Ubytovanie** | Multifunkčné pobytové centrum  **SAVORE SIGORD** Sigord 154, 082 52 Zlatá Baňa| **Piatok**  7.30 - 8.30  9.00  18.00 - 19.00  19.00 - 22.00 | **19.6.2026**  Raňajky  Cykloturistický program  Večera  Premietanie beseda |
-| **Prihlášky** | Prihlášky spolu s potvrdením o zaplatení  **150 €** poslať do **25.5.2026** na mail: **saris@cykloklub.sk** | **Sobota**  7.00 - 8.00  8.30  18.00 - 19.00 | **20.6.2026**  Raňajky  Cykloturistický program  Večera  Ukončenie zrazu  Zábavný večer  s tombolou |
-| **Informácie**<br/>(volať po 19.000 |   Ľubomír Hrečko 0905 200 766,  Ján Pastirčák 0905 911 413, Matúš Ivanecký 0918 730 322, Marián Dankovič 0903 953 388, Dušan Holinga 0902 901 089 | **Nedeľa**  7.30 - 8.30  9.00 - 12.00 | **21.6.2026**  Raňajky  Cykloturistický program  Odchod účastníkov |
+| **Organizátor:** / **Spoluorganizátor** | **SCK Šariš – Prešov** / **SCK Piešťany** |
+| :--- | :-- |
+| **Štvrtok** | **18.6.2026**|
+| 14.00 - 22.00 | Prezentácia, ubytovanie|
+| 17.30 - 19.00 | Cyklotúry po okolí |
+| 19.00 - 19.30 | Večera  |
+| 19.30 | Otvorenie zrazu Voľný program  |
+| | |
+| **Piatok** | **19.6.2026**|
+| 7.30 - 8.30   | Raňajky  
+| 9.00          | Cykloturistický program
+| 18.00 - 19.00 | Večera
+| 19.00 - 22.00 | Premietanie beseda |
+| | |
+| **Sobota**    |  **20.6.2026** |
+|  7.00 - 8.00  | Raňajky |
+|  8.30         | Cykloturistický program |
+| 18.00 - 19.00 | Večera Ukončenie zrazu  Zábavný večer  s tombolou |
+| | |
+| **Nedeľa**   |  **21.6.2026**  |
+| 7.30 - 8.30  | Raňajky         |
+| 9.00 - 12.00 | Cykloturistický program, Odchod účastníkov |
+|||
+| **Ubytovanie** | Multifunkčné pobytové centrum  **SAVORE SIGORD** Sigord 154, 082 52 Zlatá Baňa|
+| **Prihlášky** | Prihlášky spolu s potvrdením o zaplatení  **150 €** poslať do **25.5.2026** na mail: **saris@cykloklub.sk** |
+| **Informácie**<br/>(volať po 19.000 |   Ľubomír Hrečko 0905 200 766,  Ján Pastirčák 0905 911 413, Matúš Ivanecký 0918 730 322, Marián Dankovič 0903 953 388, Dušan Holinga 0902 901 089 |
