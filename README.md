@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: O nás
+description: Základné právne a registračné informácie o klube
+permalink: /about/
+---
 
 | Identifikátor  |  Hodnota  |  |
 | :---------- | :----------- |: :|
