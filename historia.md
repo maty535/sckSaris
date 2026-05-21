@@ -39,5 +39,5 @@ Vyhľadávanie: <!-- Search Input --> <input type="text" id="search-input" place
 
 - Členská schôdza **24.11.2025** o 18.00  schválila návrh termínu a miesta konania celoslovenského zrazu cykloturistou **24NZC**, termín konania zrazu bude **19.-21.6.2026**, centrom zrazu bude zariadenie **Savore na Sigorde**
 
-<img width="1600" height="962" alt="image" src="https://github.com/user-attachments/assets/22b88e28-6f97-4f8d-8d49-1cb027cafa50" />
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/22b88e28-6f97-4f8d-8d49-1cb027cafa50" />
 
