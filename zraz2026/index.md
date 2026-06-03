@@ -117,4 +117,4 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 |||
 | **Ubytovanie** | Multifunkčné pobytové centrum  **[SAVORE SIGORD](https://www.savoresigord.sk/)**<br/>**Adresa:** Sigord 154, 082 52 Zlatá Baňa<br/> [Web](https://www.savoresigord.sk/) - [Mapa](https://maps.app.goo.gl/VibgjwN19ExHYkiw8)|
 | **Prihlášky** | Prihlášky spolu s potvrdením o zaplatení  **150 €** na účet klubu: **SK46 8330 0000 0028 0346 4553** poslať do **25.5.2026** na mail: **saris@cykloklub.sk** |
-| **Informácie**<br/>(volať po 19.000 | | **Informácie**<br/>(volať po 19.000 | Ľubomír Hrečko 0905 200 766<br> Ján Pastirčák 0905 911 413<br> Matúš Ivanecký 0918 730 322<br> Marián Dankovič 0903 953 388<br> Dušan Holinga 0902 901 089<br>František Pribula  0905 616 079 |
+| **Informácie**<br/>(volať po 19.000 | Ľubomír Hrečko 0905 200 766<br> Ján Pastirčák 0905 911 413<br> Matúš Ivanecký 0918 730 322<br> Marián Dankovič 0903 953 388<br> Dušan Holinga 0902 901 089<br>František Pribula  0905 616 079 |
