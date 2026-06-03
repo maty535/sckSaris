@@ -103,11 +103,12 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 | 14.00 - 22.00 | Prezentácia, ubytovanie|
 | 17.30 - 19.00 | Cyklotúry po okolí |
 | 19.00 - 19.30 | Večera  |
-| 19.30 | Otvorenie zrazu Voľný program  |
+| 19.30         | Voľný program  |
 | | |
-| **Piatok** | **19.6.2026**|
+| **Piatok**    | **19.6.2026**|
 | 7.30 - 8.30   | Raňajky  
-| 9.00          | Cykloturistický program
+| 9.00          | Otvorenie zrazu  |
+| 9.30          | Cykloturistický program
 | 18.00 - 19.00 | Večera
 | 19.00 - 22.00 | Premietanie beseda |
 | | |
