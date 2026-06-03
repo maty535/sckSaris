@@ -101,7 +101,7 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 | | |
 | **Piatok**    | **19.6.2026**|
 | 7.30 - 8.30   | Raňajky  
-| 9.30          | Otvorenie zrazu  |
+| 9.00          | Otvorenie zrazu  |
 | 9.30          | Cykloturistický program
 | 18.00 - 19.00 | Večera
 | 19.00 - 22.00 | Premietanie beseda |
