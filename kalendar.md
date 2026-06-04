@@ -12,7 +12,7 @@ akcie:
   - { d: "2026-05-10", t: "10.5.2026", n: "Prejazd trasy zrazu na 1. deň zrazu", z: "(Hrečko)",
     gpx: "2026-05-10-Zraz-Trasa1",
     url: "https://mapy.com/sk/turisticka?planovani-trasy&dim=6a022ce4f4aafc2fc8505da5&x=21.4013645&y=48.9082719&z=12" }
-  - { d: "2026-05-24", t: "24.5.2026", n: "Prejazd trasy zrazu na 2. deň zrazu", z: "(Hrečko)",
+  - { d: "2026-05-24", t: "24.5.2026", n: "Prejazd trasy zrazu na 2. deň zrazu", z: "(Hrečko)" , 
       gpx: "2026-05-24-Zraz-Trasa-den2",
       url: "https://mapy.com/sk/turisticka?planovani-trasy&dim=6a208763e2b2e58569da83ec&x=21.2675431&y=49.0032224&z=12" }
   - { d: "2026-06-07", t: "7.6.2026", n: "Prejazd trasy zrazu na 3. deň zrazu", z: "(Pribula)" }
@@ -38,9 +38,6 @@ akcie:
 
 ---
 
-{% assign dnes = "now" | date: "%Y-%m-%d" %}
-{% assign najdene = false %}
-
 <style>
   .highlight-next {
     background-color: #fff3cd !important;
@@ -48,9 +45,14 @@ akcie:
   }
   table { width: 100%; border-collapse: collapse; }
   th, td { text-align: left; padding: 8px; border-bottom: 1px solid #ddd; }
+  
+  /* Voliteľné: jemné vizuálne odlíšenie starých akcií */
+  .stara-akcia {
+    opacity: 0.6;
+  }
 </style>
 
-<table>
+<table id="tabulka-akcii">
   <thead>
     <tr>
       <th>Dátum</th>
@@ -62,32 +64,50 @@ akcie:
   </thead>
   <tbody>
     {% for akcia in page.akcie %}
-      {% assign css_class = "" %}
-      {% if akcia.d >= dnes and najdene == false %}
-        {% assign css_class = "highlight-next" %}
-        {% assign najdene = true %}
-      {% endif %}
-      <tr class="{{ css_class }}">
+      <tr data-datum="{{ akcia.d }}">
         <td>{{ akcia.t }}</td>
         <td>{{ akcia.n }}</td>
         <td>{{ akcia.z }}</td>
-        
         <td>
           {% if akcia.gpx %}
-          {% capture gpx_url %}/assets/trasy/{{ akcia.gpx }}.gpx{% endcapture %}
-          <a href="{{ gpx_url | relative_url }}">GPX</a>
+            {% capture gpx_url %}/assets/trasy/{{ akcia.gpx }}.gpx{% endcapture %}
+            <a href="{{ gpx_url | relative_url }}">GPX</a>
           {% endif %}
         </td>
-        
-        
         <td>
-        {% if akcia.url %}
-          <a href="{{ akcia.url }}">Prieskum</a>
-        {% endif %}
+          {% if akcia.url %}
+            <a href="{{ akcia.url }}">Prieskum</a>
+          {% endif %}
         </td>
-        
-
       </tr>
     {% endfor %}
   </tbody>
 </table>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Získanie dnešného dátumu vo formáte YYYY-MM-DD (v lokálnom čase)
+    const dnes = new Date();
+    const dnesString = dnes.getFullYear() + '-' + 
+                       String(dnes.getMonth() + 1).padStart(2, '0') + '-' + 
+                       String(dnes.getDate()).padStart(2, '0');
+
+    // Výber všetkých riadkov tabuľky, ktoré majú dátum
+    const riadky = document.querySelectorAll("#tabulka-akcii tbody tr");
+    let najdene = false;
+
+    riadky.forEach(function(riadok) {
+      const datumAkcie = riadok.getAttribute("data-datum");
+      
+      if (datumAkcie) {
+        if (datumAkcie >= dnesString && !najdene) {
+          riadok.classList.add("highlight-next");
+          najdene = true; // Zvýrazníme iba prvú nasledujúcu akciu
+        } else if (datumAkcie < dnesString) {
+          // Voliteľné: pridanie triedy pre staré akcie (napr. zosivenie textu)
+          riadok.classList.add("stara-akcia");
+        }
+      }
+    });
+  });
+</script>
