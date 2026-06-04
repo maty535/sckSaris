@@ -8,7 +8,7 @@ author: výbor
 ---
 
 |: <img alt="image" src="{{ '/assets/img/logo_sck_small.jpg' | relative_url }}" alt="Logo SCK Šariš Prešov" /> |: **24. NÁRODNÝ ZRAZ CYKLOTURISTOV** :| <img alt="image" width="90" height="90" src="{{ '/assets/img/logoFlatSck.png' | relative_url }}" alt="Logo SCK Šariš Prešov" /> :|
-| **Miesto:** [Sigord](https://maps.app.goo.gl/VibgjwN19ExHYkiw8) - [ubytovanie](https://www.savoresigord.sk/) | **Termín:** 18.6 - 21.6.2026| **Cena:** 150 € |
+| <i class="fa-solid fa-location-crosshairs"></i> [Sigord](https://maps.app.goo.gl/VibgjwN19ExHYkiw8) - <i class="fa-solid fa-bed"></i> [Savore](https://www.savoresigord.sk/) | **Termín:** 18.6 - 21.6.2026| **Cena:** 150 € |
 | <i class="fa-regular fa-calendar"></i> [Informáčný leták zrazu]({{ '/assets/docs/2026-06-18-zraz-sigord.pdf' | relative_url }}) | <i class="fa-regular fa-compass"></i> Trasy:<br> <i class="fa-solid fa-location-arrow"></i> Piatok  - [gpx](/assets/trasy/2026-05-10-Zraz-Trasa1.gpx) - [prieskum](https://mapy.com/sk/turisticka?planovani-trasy&dim=6a022ce4f4aafc2fc8505da5&x=21.4013645&y=48.9082719&z=12)<br> <i class="fa-solid fa-location-arrow"></i> Sobota  - [gpx](/assets/trasy/2026-05-24-Zraz-Trasa-den2.gpx) - [prieskum](https://mapy.com/sk/turisticka?planovani-trasy&dim=6a208763e2b2e58569da83ec&x=21.2675431&y=49.0032224&z=12)  <br><i class="fa-solid fa-location-arrow"></i> Nedela   - gpx - prieskum | <img alt="image" width="150" height="180"  src="{{ '/zraz2026/qr-code.png' | relative_url }}" alt="QR kód zrazu" />  :|
 
 <img alt="image" src="{{ '/zraz2026/plagat.jpg' | relative_url }}" alt="Plagát zrazu" /> 
