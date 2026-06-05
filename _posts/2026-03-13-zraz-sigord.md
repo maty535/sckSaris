@@ -8,7 +8,7 @@ author: výbor
 ---
 
 |: **Aktuálne info:** :|||
-|: - **29.5.2026** výbor klubu konštatoval, že potvrdená účasť je postačujúca a zraz sa bude reaalizovať |||
+|: - **29.5.2026** výbor klubu konštatoval, že potvrdená účasť je postačujúca a zraz sa bude realizovať |||
 |: - Prosíme zaregistrovaných účastníkov zrazu aby nám emailom na: [saris@ckloklub.sk](mailto:saris@ckloklub.sk) oznámili aj **veľkosť tričiek**, ktoré sú pre nich vhodné|||
 
 
