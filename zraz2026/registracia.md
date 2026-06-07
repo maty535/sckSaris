@@ -15,7 +15,7 @@ forms:
         required: true
       - name: email
         input_type: email
-        placeholder: Email address
+        placeholder: Email adresa
         required: true
       - name: mobil
         input_type: text
@@ -23,11 +23,15 @@ forms:
         required: true
       - name: tricko
         input_type: text
-        placeholder: Velkost tricka
+        placeholder: Velkosť trička
         required: true
       - name: klub
         input_type: text
-        placeholder: Klub
+        placeholder: Klubová príslušnosť
+        required: false
+      - name: poznaka
+        input_type: text
+        placeholder: Poznámka, alebo špeciálny odkaz pre organizátorov zrazu
         required: true
       - name: submit
         input_type: submit
