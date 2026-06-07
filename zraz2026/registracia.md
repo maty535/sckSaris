@@ -4,7 +4,7 @@ title: "Registračný formulár zraz 2026"
 
 forms:
   - to: saris@cykloklub.sk
-    subject: Regiostracia na zraz 2026
+    subject: Registrácia na zraz 2026
     redirect: /
     form_engine: formspree
     placeholders: false
