@@ -1,0 +1,79 @@
+{% assign form_id = include.form | plus: 0 %}
+{% assign form = page.forms[form_id] %}
+
+{% if form %}
+<style>
+  .custom-jekyll-form {
+    max-width: 500px;
+    margin: 2rem 0;
+    font-family: inherit;
+  }
+  .form-field {
+    margin-bottom: 1.25rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .form-field label {
+    font-weight: 600;
+    margin-bottom: 0.4rem;
+    font-size: 0.95rem;
+    color: #333;
+  }
+  .form-field input[type="text"],
+  .form-field input[type="email"] {
+    padding: 0.6rem 0.8rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.2s;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .form-field input:focus {
+    border-color: #0066cc;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0,102,204,0.1);
+  }
+  .form-submit {
+    margin-top: 1.5rem;
+  }
+  .form-submit input[type="submit"] {
+    background-color: #0066cc;
+    color: white;
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    width: 100%;
+  }
+  .form-submit input[type="submit"]:hover {
+    background-color: #004da3;
+  }
+</style>
+
+<form action="https://formspree.io/f/mzdqeywy" method="POST" class="custom-jekyll-form">
+  <input type="hidden" name="_subject" value="{{ form.subject }}">
+  <input type="hidden" name="_next" value="{{ form.redirect }}">
+
+  {% for field in form.fields %}
+    {% if field.input_type == "text" or field.input_type == "email" %}
+      <div class="form-field">
+        <label for="{{ field.name }}">{{ field.placeholder }}</label>
+        <input 
+          type="{{ field.input_type }}" 
+          id="{{ field.name }}" 
+          name="{{ field.name }}" 
+          {% if field.required %}required{% endif %}
+        >
+      </div>
+    {% elsif field.input_type == "submit" %}
+      <div class="form-submit">
+        <input type="submit" value="Odoslať registráciu">
+      </div>
+    {% endif %}
+  {% endfor %}
+</form>
+{% endif %}

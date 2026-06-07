@@ -8,6 +8,7 @@ author: výbor
 ---
 
 |: **Aktuálne info:** :|||
+|: - Svoju registráciu po zaplatení účastníckeho poplatku môžete poslať aj cez tento [formulár]({% link zraz2026/registracia.md %}) |||
 |: - **29.5.2026** výbor klubu konštatoval, že potvrdená účasť je postačujúca a zraz sa bude realizovať |||
 |: - Prosíme zaregistrovaných účastníkov zrazu aby nám emailom na: [saris@ckloklub.sk](mailto:saris@ckloklub.sk) oznámili aj **veľkosť tričiek**, ktoré sú pre nich vhodné|||
 

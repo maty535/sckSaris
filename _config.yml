@@ -64,6 +64,22 @@ header_pages:
   - zraz2026/index.md
   - historia.md
 
+input_types:
+  - text
+  - textarea
+  - email
+  - date
+  - checkbox
+  - radio
+  - number
+  - submit
+  - recaptcha
+
+form_engines:
+  - cloudcannon
+  - formspree
+  - formbucket
+  - netlify
   
 plugins:
   - jekyll-paginate-v2
