@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name>zraz Sigord prvý deň - Prehliadka</name>
+  <open>1</open>
+
+  <Style id="ciaraTrasy">
+    <LineStyle>
+      <color>7f0000ff</color> <width>4</width>
+    </LineStyle>
+  </Style>
+
+  <Placemark>
+    <name>Trasa: zraz Sigord prvý deň</name>
+    <styleUrl>#ciaraTrasy</styleUrl>
+    <LineString>
+      <tessellate>1</tessellate>
+      <altitudeMode>clampToGround</altitudeMode>
+      <coordinates>
+        21.390980,48.955665,508.0
+        21.391177,48.955783,508.0
+        21.391196,48.955795,508.0
+        21.391627,48.955901,503.0
+        21.391672,48.955901,502.0
+        21.391833,48.955588,500.0
+        21.391879,48.954627,493.0
+        21.392040,48.954739,493.0
+        21.392103,48.954804,493.0
+        21.392112,48.954992,494.0
+        21.392130,48.955045,494.0
+        21.392202,48.955134,494.0
+        21.392202,48.955169,494.0
+      </coordinates>
+    </LineString>
+  </Placemark>
+
+  <gx:Tour>
+    <name>Spustiť prelet nad trasou</name>
+    <gx:Playlist>
+
+      <gx:FlyTo>
+        <gx:duration>4.0</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <LookAt>
+          <longitude>21.390980</longitude>
+          <latitude>48.955665</latitude>
+          <altitude>508.0</altitude>
+          <heading>0</heading>
+          <tilt>45</tilt>
+          <range>1000</range>
+          <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+      </gx:FlyTo>
+
+      <gx:Wait>
+        <gx:duration>1.5</gx:duration>
+      </gx:Wait>
+
+      <gx:FlyTo>
+        <gx:duration>3.0</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <LookAt>
+          <longitude>21.391627</longitude>
+          <latitude>48.955901</latitude>
+          <altitude>503.0</altitude>
+          <heading>30</heading>
+          <tilt>50</tilt>
+          <range>800</range>
+          <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+      </gx:FlyTo>
+
+      <gx:FlyTo>
+        <gx:duration>4.0</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <LookAt>
+          <longitude>21.391879</longitude>
+          <latitude>48.954627</latitude>
+          <altitude>493.0</altitude>
+          <heading>60</heading>
+          <tilt>55</tilt>
+          <range>600</range>
+          <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+      </gx:FlyTo>
+
+      <gx:FlyTo>
+        <gx:duration>5.0</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <LookAt>
+          <longitude>21.392202</longitude>
+          <latitude>48.955169</latitude>
+          <altitude>494.0</altitude>
+          <heading>45</heading>
+          <tilt>45</tilt>
+          <range>700</range>
+          <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+      </gx:FlyTo>
+
+    </gx:Playlist>
+  </gx:Tour>
+</Document>
+</kml>
