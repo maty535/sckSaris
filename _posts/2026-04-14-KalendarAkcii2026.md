@@ -18,7 +18,7 @@ akcie:
   - {  d: "2026-06-07", t: "7.6.2026", n: "Prejazd trasy zrazu na 3. deň zrazu", z: "(Hrečko)" ,
        gpx: "2026-06-07-Zraz-trasa-den3", 
        url: "https://mapy.com/sk/turisticka?planovani-trasy&dim=6a26a940bcbcce8bb4c822c1&x=21.2354102&y=48.9978578&z=14" }
-  - { d: "2026-06-19", t: "19.-21.6.2026", n: "NZC SCK Sigord Savore", z: "(SCK Šariš Prešov)" }
+  - { d: "2026-06-18", t: "18.-21.6.2026", n: "NZC SCK Sigord Savore", z: "(SCK Šariš Prešov)" }
   - { d: "2026-07-01", t: "x. 7.2026", n: "Slovenský kras", z: "(Fil)" , 
       gpx: "SNV-JanoFil", 
       url: "https://mapy.com/sk/turisticka?planovani-trasy&dim=69eba8bab62416099118d361&x=20.5762808&y=48.9397628&z=12" }
