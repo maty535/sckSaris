@@ -101,7 +101,7 @@ Most, Hrad Šariš, Malý Šariš, rozhľadňa na Malkovskej Hôrke, Haniska, Cy
 
 ### Účastnícky poplatok
  
-  * Registračný poplatok  **150 €**  zahŕňa ubytovanie, polpenziu, vstupy do pamätihodností a múzeí, tričko, sprievod na trase a je potrebné zaslať na účet klubu do 25.5.2026: **SK46 8330 0000 0028 0346 4553**.
+  * Registračný poplatok  **150 €**  zahŕňa ubytovanie, polpenziu, vstupy do pamätihodností a múzeí, tričko, sprievod a občerstvenie na trase a je potrebné zaslať na účet klubu do 25.5.2026: **SK46 8330 0000 0028 0346 4553**.
 
 
 ### Detailný Program zrazu:
