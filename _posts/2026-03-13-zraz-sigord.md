@@ -10,7 +10,7 @@ author: výbor
 
 |: **Informácie:** :|||
 |: - [Všetky trasy zrazu](https://mapy.com/sk/turisticka?moje-mapy&cat=mista-trasy&mid=6a26a0a84e6d2f7b44c11e04&x=21.3061649&y=48.9519184&z=11) - [Prieskum na google earth](https://earth.google.com/earth/d/1W4weo_TOujqFYjO272c_3CBUQveBvk5I?usp=sharing) - [Prelet trasami zrazu]({% link zraz2026/prelet.md %}) |
-|: - **7.6.2015** Svoju registráciu po zaplatení účastníckeho poplatku môžete poslať aj cez tento [formulár]({% link zraz2026/registracia.md %}) |||
+|: - **7.6.2015** Svoju registráciu po zaplatení účastníckeho poplatku môžete poslať aj cez tento formulár|||
 |: - **29.5.2026** výbor klubu konštatoval, že potvrdená účasť je postačujúca a zraz sa bude realizovať |||
 |: - **25.5.2026** Prosíme zaregistrovaných účastníkov zrazu aby nám emailom na: [saris@ckloklub.sk](mailto:saris@ckloklub.sk) oznámili aj **veľkosť tričiek**, ktoré sú pre nich vhodné|||
 
