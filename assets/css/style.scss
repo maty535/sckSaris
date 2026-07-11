@@ -8,6 +8,11 @@
 
 // -------------------------------------------- //
 
+.post-list li {
+  display: flow-root; /* Uzatvorí float vnútri každého riadku príspevku */
+  margin-bottom: 30px; /* Pridá peknú medzeru medzi článkami v zozname */
+}
+
 .post-thumbnail {
   float: left;
   max-width: 250px;
