@@ -1,7 +1,9 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
-  repo: maty535/sckSaris # Zmeňte na váš názov (napr. jozko/moj-web)
+  name: github
+  branch: main 
+  repo: maty535/sckSaris 
+  base_url: https://decap-cms-vercel-flame.vercel.app
+  auth_endpoint: /api/auth
   
 media_folder: 'assets/uploads'
 
