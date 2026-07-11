@@ -25,11 +25,11 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
-         {% if page.thumbnail %}
-          {% if page.thumbnail contains 'http://' or page.thumbnail contains 'https://' %}
-            <img src="{{ page.thumbnail }}" alt="{{ page.title }}" class="post-thumbnail">
+         {% if post.thumbnail %}
+          {% if post.thumbnail contains 'http://' or post.thumbnail contains 'https://' %}
+            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="post-thumbnail">
           {% else %}
-            <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" class="post-thumbnail">
+            <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}" class="post-thumbnail">
           {% endif %}
         {% endif %}
         {%- if site.show_excerpts -%}
