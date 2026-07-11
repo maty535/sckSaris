@@ -39,13 +39,17 @@ layout: base
     </p>
   </header>
 
-{% if page.thumbnail %}
-  <div class="post-thumbnail">
-    <img src="{{ page.thumbnail }}" alt="{{ page.title }}">
-  </div>
-{% endif %}
+
   
   <div class="post-content e-content" itemprop="articleBody">
+
+    {% if page.thumbnail %}
+      {% if page.thumbnail contains 'http://' or page.thumbnail contains 'https://' %}
+        <img src="{{ page.thumbnail }}" alt="{{ page.title }}" class="post-thumbnail">
+      {% else %}
+        <img src="{{ page.thumbnail | relative_url }}" alt="{{ page.title }}" class="post-thumbnail">
+      {% endif %}
+    {% endif %}
     {{ content| markdownify }}
   </div>
 
