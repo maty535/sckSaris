@@ -39,8 +39,8 @@ layout: base
     </p>
   </header>
 
- {%- if post.thumbnail || post.image -%}
-   <img src="{{ post.image || post.thumbnail }}" alt="Thumbnail image for the post '{{ post.title }}'">
+ {%- if page.thumbnail || page.image -%}
+   <img src="{{ page.image || page.thumbnail }}" alt="Thumbnail image for the post '{{ page.title }}'">
 {%- endif -%}
   
   <div class="post-content e-content" itemprop="articleBody">
