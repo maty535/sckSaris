@@ -39,9 +39,11 @@ layout: base
     </p>
   </header>
 
- {%- if page.thumbnail -%}
-   <img src="{{ page.thumbnail }}" alt="Thumbnail image for the post '{{ page.title }}'">
-{%- endif -%}
+{% if page.thumbnail %}
+  <div class="post-thumbnail">
+    <img src="{{ page.thumbnail }}" alt="{{ page.title }}">
+  </div>
+{% endif %}
   
   <div class="post-content e-content" itemprop="articleBody">
     {{ content| markdownify }}
