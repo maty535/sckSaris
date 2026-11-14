@@ -2,7 +2,7 @@
 title: Workshop Subdestinácia Slánske Vrchy a jej rozvoj
 date: 2026-11-13
 author: Ing. Matúš Ivanecký
-tags: workshop turizmus slanske
+tags: workshop turizmus slanske-vrchy
 layout: post
 categories: workshop
 ---
