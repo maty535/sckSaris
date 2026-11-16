@@ -18,8 +18,8 @@ permalink: /about/
 | **Predseda**|  Hrečko Ľubo | **mobil:** 0905 200 766 , **e-mail:** saris@cykloklub.sk |
 | **Výbor** |Dankovič Marián ||
 | ^^ | Holingová Jana  ||    
-| ^^ | Hrečko Ľubo    | **0905 200 766** |
-| ^^ | Ivanecký Matúš | **0918 730 322** |
+| ^^ | Hrečko Ľubo    | **0905 200 766** - predseda klubu a výboru |
+| ^^ | Ivanecký Matúš | **0918 730 322** - zastupuje predsedu |
 | **Revízna komisia**| Bača Daniel | **0903 772 184** |
 | ^^ | Holinga Dušan  | **0902 901 089**|    
 | **Funkčné obdobie orgánov klubu** | 4 roky | od 6.2.2026 do 5.2.2030 |
