@@ -21,7 +21,8 @@ permalink: /about/
 | ^^ | Hrečko Ľubo    | **0905 200 766** - predseda klubu a výboru |
 | ^^ | Ivanecký Matúš | **0918 730 322** - zastupuje predsedu |
 | **Revízna komisia**| Bača Daniel | **0903 772 184** |
-| ^^ | Holinga Dušan  | **0902 901 089**|    
+| ^^ | Holinga Dušan  | **0902 901 089** |    
+| ^^ | Hoľva Anton    | **0903 393 203** |    
 | **Funkčné obdobie orgánov klubu** | 4 roky | od 6.2.2026 do 5.2.2030 |
 | **Stanovy klubu** | [schválené 9.2.2006]({{ '/assets/docs/2006-12-01-stanovy.pdf' | relative_url }}) ||
 
