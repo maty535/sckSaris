@@ -15,7 +15,14 @@ permalink: /about/
 | **DIČ** | [2021531270](https://finstat.sk/37785699)| ^^ |
 | **Bankový kontakt** | SK46 8330 0000 0028 0346 4553  ||
 | **SK NACE** | 93120 Činnosti športových klubov ||
-| **Predseda:**| Ľubo Hrečko | **mobil:** 0905 200 766 , **e-mail:** saris@cykloklub.sk |
+| **Predseda**|  Hrečko Ľubo | **mobil:** 0905 200 766 , **e-mail:** saris@cykloklub.sk |
+| **Výbor** |Dankovič Marián ||
+| ^^ | Holingová Jana  ||    
+| ^^ | Hrečko Ľubo    | **0905 200 766** |
+| ^^ | Ivanecký Matúš | **0918 730 322** |
+| **Revízna komisia**| Bača Daniel | **0903 772 184** |
+| ^^ | Holinga Dušan  | **0902 901 089**|    
+
 | **Funkčné obdobie orgánov klubu** | 4 roky | od 6.2.2026 do 5.2.2030 |
 | **Stanovy klubu** | [schválené 9.2.2006]({{ '/assets/docs/2006-12-01-stanovy.pdf' | relative_url }}) ||
 
